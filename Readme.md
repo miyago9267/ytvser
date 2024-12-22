@@ -30,6 +30,7 @@ import "github.com/miyago9267/ytdler"
 
 ### Model Schema
 
+```go
 type Video struct {
     ID          string `json:"id"`
     Title       string `json:"title"`
@@ -40,6 +41,7 @@ type Video struct {
     PublishTime string `json:"publish_time"`
     URL         string `json:"url"`
 }
+```
 
 ### Usage Sample
 
