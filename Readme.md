@@ -1,5 +1,7 @@
 # YouTube Video Searcher
 
+English | [繁體中文](https://github.com/miyago9267/ytdler/blob/master/docs/zh-tw.md) | [简体中文](https://github.com/miyago9267/ytdler/blob/master/docs/zh-cn.md)
+
 This package as a YouTube video searcher, simulating YouTube video search results. It can be used for applications that return results based on user-provided keywords.
 
 ## Features

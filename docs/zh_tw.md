@@ -1,5 +1,7 @@
 # Youtube 影片搜尋器
 
+[English](https://github.com/miyago9267/ytdler/blob/master/README.md) | 繁體中文 | [简体中文](https://github.com/miyago9267/ytdler/blob/master/docs/zh-cn.md)
+
 本套件係 Youtube 影片搜尋器，為模擬 Youtube 影片搜尋之結果，可用於各種根據接受使用者搜尋之關鍵字返還結果之應用。
 
 ## 專案特色
