@@ -1,4 +1,4 @@
-module ytdler
+module ytvser
 
 go 1.20
 

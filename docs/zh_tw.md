@@ -1,6 +1,6 @@
 # Youtube 影片搜尋器
 
-[English](https://github.com/miyago9267/ytdler/blob/master/README.md) | 繁體中文 | [简体中文](https://github.com/miyago9267/ytdler/blob/master/docs/zh_cn.md)
+[English](https://github.com/miyago9267/ytvser/blob/master/README.md) | 繁體中文 | [简体中文](https://github.com/miyago9267/ytvser/blob/master/docs/zh_cn.md)
 
 本套件係 Youtube 影片搜尋器，為模擬 Youtube 影片搜尋之結果，可用於各種根據接受使用者搜尋之關鍵字返還結果之應用。
 
@@ -18,12 +18,12 @@
 
 ### 安裝
 
-`go get github.com/miyago9267/ytdler`
+`go get github.com/miyago9267/ytvser`
 
 ### 使用
 
 ```go
-import "github.com/miyago9267/ytdler"
+import "github.com/miyago9267/ytvser"
 ```
 
 ### Model Schema
@@ -43,13 +43,13 @@ type Video struct {
 
 ### 快速上手
 
-[範例詳見](https://github.com/miyago9267/ytdler/blob/master/cmd/main.go)
+[範例詳見](https://github.com/miyago9267/ytvser/blob/master/cmd/main.go)
 
 ## License
 
 本專案使用MIT協議進行開源，修改、分支、重製請遵守相同協議並標記原作者署名。
 
-詳細內容請參閱 [LICENSE](https://github.com/miyago9267/ytdler/blob/master/LICENSE)
+詳細內容請參閱 [LICENSE](https://github.com/miyago9267/ytvser/blob/master/LICENSE)
 
 ## 貢獻
 

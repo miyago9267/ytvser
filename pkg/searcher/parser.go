@@ -7,7 +7,7 @@ import (
 	"os"
 	"regexp"
 	"strings"
-	"ytdler/pkg/model"
+	"ytvser/pkg/model"
 
 	"github.com/dop251/goja"
 	"golang.org/x/net/html"

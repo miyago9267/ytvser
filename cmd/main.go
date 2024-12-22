@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"ytdler/pkg/searcher"
+	"ytvser/pkg/searcher"
 )
 
 func main() {
