@@ -9,7 +9,8 @@ import (
 	"os"
 	"regexp"
 	"time"
-	"ytvser/pkg/model"
+
+	"github.com/miyago9267/ytvser/pkg/model"
 )
 
 type Searcher struct {

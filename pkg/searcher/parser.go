@@ -3,11 +3,11 @@ package searcher
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/miyago9267/ytvser/pkg/model"
 	"log"
 	"os"
 	"regexp"
 	"strings"
-	"ytvser/pkg/model"
 
 	"github.com/dop251/goja"
 	"golang.org/x/net/html"

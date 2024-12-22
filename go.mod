@@ -1,4 +1,4 @@
-module ytvser
+module github.com/miyago9267/ytvser
 
 go 1.20
 

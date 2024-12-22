@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"ytvser/pkg/searcher"
+
+	"github.com/miyago9267/ytvser/pkg/searcher"
 )
 
 func main() {
