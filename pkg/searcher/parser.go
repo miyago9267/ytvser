@@ -1,4 +1,4 @@
-package parser
+package searcher
 
 import (
 	"encoding/json"
@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 	"regexp"
-	"spotdl/model"
 	"strings"
+	"ytdler/pkg/model"
 
 	"github.com/dop251/goja"
 	"golang.org/x/net/html"
